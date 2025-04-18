@@ -1,0 +1,2 @@
+fetch-picker/fetch_gazebo/fetch_simulation
+/fetch_ws/devel/.private/fetch_simulation/cmake.lock /fetch_ws/devel/./cmake.lock

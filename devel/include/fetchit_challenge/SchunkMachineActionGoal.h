@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/fetchit_challenge/include/fetchit_challenge/SchunkMachineActionGoal.h

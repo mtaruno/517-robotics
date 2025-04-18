@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/fetchit_challenge/share/common-lisp/ros/fetchit_challenge/msg/SchunkMachineActionFeedback.lisp

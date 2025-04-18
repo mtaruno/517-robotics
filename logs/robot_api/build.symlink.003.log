@@ -1,0 +1,4 @@
+Linked: (/fetch_ws/devel/.private/robot_api/lib/pkgconfig/robot_api.pc, /fetch_ws/devel/lib/pkgconfig/robot_api.pc)
+Linked: (/fetch_ws/devel/.private/robot_api/lib/python3/dist-packages/robot_api/__init__.py, /fetch_ws/devel/lib/python3/dist-packages/robot_api/__init__.py)
+Linked: (/fetch_ws/devel/.private/robot_api/share/robot_api/cmake/robot_apiConfig.cmake, /fetch_ws/devel/share/robot_api/cmake/robot_apiConfig.cmake)
+Linked: (/fetch_ws/devel/.private/robot_api/share/robot_api/cmake/robot_apiConfig-version.cmake, /fetch_ws/devel/share/robot_api/cmake/robot_apiConfig-version.cmake)

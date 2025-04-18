@@ -1,0 +1,3 @@
+Symlinking /fetch_ws/devel/lib/pkgconfig/collada_web_server.pc
+Symlinking /fetch_ws/devel/share/collada_web_server/cmake/collada_web_serverConfig.cmake
+Symlinking /fetch_ws/devel/share/collada_web_server/cmake/collada_web_serverConfig-version.cmake

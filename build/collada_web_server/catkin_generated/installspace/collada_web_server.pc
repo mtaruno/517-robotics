@@ -1,0 +1,8 @@
+prefix=/fetch_ws/install
+
+Name: collada_web_server
+Description: Description of collada_web_server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

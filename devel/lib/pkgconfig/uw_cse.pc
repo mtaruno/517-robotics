@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/uw_cse/lib/pkgconfig/uw_cse.pc

@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/fetch_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/fetch_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/fetch_ws/src/fetch-picker/applications"
+}

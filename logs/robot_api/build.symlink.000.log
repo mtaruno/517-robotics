@@ -1,0 +1,4 @@
+Symlinking /fetch_ws/devel/lib/pkgconfig/robot_api.pc
+Symlinking /fetch_ws/devel/lib/python3/dist-packages/robot_api/__init__.py
+Symlinking /fetch_ws/devel/share/robot_api/cmake/robot_apiConfig.cmake
+Symlinking /fetch_ws/devel/share/robot_api/cmake/robot_apiConfig-version.cmake

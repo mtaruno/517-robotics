@@ -1,0 +1,4 @@
+Symlinking /fetch_ws/devel/lib/libfetch_gazebo_plugin.so
+Symlinking /fetch_ws/devel/lib/pkgconfig/fetch_gazebo.pc
+Symlinking /fetch_ws/devel/share/fetch_gazebo/cmake/fetch_gazeboConfig.cmake
+Symlinking /fetch_ws/devel/share/fetch_gazebo/cmake/fetch_gazeboConfig-version.cmake

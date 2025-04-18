@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/fetchit_challenge/share/roseus/ros/fetchit_challenge/msg/SchunkMachineFeedback.l

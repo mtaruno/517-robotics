@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/simple_grasping/share/simple_grasping/cmake/simple_graspingConfig.cmake

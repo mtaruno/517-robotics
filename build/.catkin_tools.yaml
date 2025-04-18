@@ -1,0 +1,6 @@
+devel_space: /fetch_ws/devel
+install: false
+install_space: /fetch_ws/install
+profile: default
+source_space: /fetch_ws/src
+workspace: /fetch_ws

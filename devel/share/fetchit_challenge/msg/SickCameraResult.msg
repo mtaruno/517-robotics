@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/fetchit_challenge/share/fetchit_challenge/msg/SickCameraResult.msg

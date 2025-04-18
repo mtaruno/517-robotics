@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/applications/share/applications/cmake/applicationsConfig.cmake

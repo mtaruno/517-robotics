@@ -1,0 +1,27 @@
+{
+  "name": "TECHIN517Fetch",
+  "dockerFile": "Dockerfile",
+  "runArgs": [
+    "--privileged",
+    "--network=host",
+    "-e", "DISPLAY=${localEnv:DISPLAY}"
+  ],
+  "workspaceMount": "source=${localWorkspaceFolder},target=/fetch_ws,type=bind",
+  "workspaceFolder": "/fetch_ws",
+  "mounts": [
+    "source=/etc/timezone,target=/etc/timezone,type=bind",
+    "source=/etc/localtime,target=/etc/localtime,type=bind",
+	  "source=${localEnv:HOME}/.bash_history,target=/home/vscode/.bash_history,type=bind",
+    "source=/tmp/.X11-unix,target=/tmp/.X11-unix,type=bind",
+    "source=/dev,target=/dev,type=bind",
+    "source=/etc/udev,target=/etc/udev,type=bind"
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-iot.vscode-ros"
+      ]
+    }
+  }
+}
+

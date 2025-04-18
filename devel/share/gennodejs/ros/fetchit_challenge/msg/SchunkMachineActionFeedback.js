@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/fetchit_challenge/share/gennodejs/ros/fetchit_challenge/msg/SchunkMachineActionFeedback.js

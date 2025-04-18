@@ -1,0 +1,57 @@
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/cloud_tools.cpp:[m[K In function ‘[01m[Kvoid simple_grasping::colorizeCloud(pcl::PointCloud<pcl::PointXYZRGB>&, float)[m[K’:
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/cloud_tools.cpp:70:31:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid pcl::getFields(const pcl::PointCloud<PointT>&, std::vector<pcl::PCLPointField>&) [with PointT = pcl::PointXYZRGB][m[K’ is deprecated: use getFields<PointT> () with return value instead [[01;35m[K-Wdeprecated-declarations[m[K]
+   70 |   pcl::getFields(cloud, fields[01;35m[K)[m[K;
+      |                               [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/common/io.h:586[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/io/file_io.h:41[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:44[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:70[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:9[m[K,
+                 from [01m[K/fetch_ws/src/fetch-picker/simple_grasping/include/simple_grasping/cloud_tools.h:39[m[K,
+                 from [01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/cloud_tools.cpp:33[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/common/impl/io.hpp:81:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   81 | [01;36m[Kpcl[m[K::getFields (const pcl::PointCloud<PointT> &, std::vector<pcl::PCLPointField> &fields)
+      | [01;36m[K^~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/cloud_tools.cpp:70:31:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid pcl::getFields(const pcl::PointCloud<PointT>&, std::vector<pcl::PCLPointField>&) [with PointT = pcl::PointXYZRGB][m[K’ is deprecated: use getFields<PointT> () with return value instead [[01;35m[K-Wdeprecated-declarations[m[K]
+   70 |   pcl::getFields(cloud, fields[01;35m[K)[m[K;
+      |                               [01;35m[K^[m[K
+In file included from [01m[K/usr/include/pcl-1.10/pcl/common/io.h:586[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/io/file_io.h:41[m[K,
+                 from [01m[K/usr/include/pcl-1.10/pcl/io/pcd_io.h:44[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_conversions/pcl_conversions.h:70[m[K,
+                 from [01m[K/opt/ros/noetic/include/pcl_ros/point_cloud.h:9[m[K,
+                 from [01m[K/fetch_ws/src/fetch-picker/simple_grasping/include/simple_grasping/cloud_tools.h:39[m[K,
+                 from [01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/cloud_tools.cpp:33[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/common/impl/io.hpp:81:1:[m[K [01;36m[Knote: [m[Kdeclared here
+   81 | [01;36m[Kpcl[m[K::getFields (const pcl::PointCloud<PointT> &, std::vector<pcl::PCLPointField> &fields)
+      | [01;36m[K^~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:35[m[K:
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:[m[K In member function ‘[01m[Kbool simple_grasping::ObjectSupportSegmentation::segment(const ConstPtr&, std::vector<grasping_msgs::Object_<std::allocator<void> > >&, std::vector<grasping_msgs::Object_<std::allocator<void> > >&, pcl::PointCloud<pcl::PointXYZRGB>&, pcl::PointCloud<pcl::PointXYZRGB>&, bool)[m[K’:
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:89:13:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+   89 |   ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:106:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  106 |       ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K, "No more planes to remove.");
+      |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:123:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  123 |       ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:148:19:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  148 |         ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:161:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  161 |       ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:170:13:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  170 |   ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:180:13:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  180 |   ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:210:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  210 |       ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/fetch_ws/src/fetch-picker/simple_grasping/src/object_support_segmentation.cpp:235:17:[m[K [01;35m[Kwarning: [m[Ktoo many arguments for format [[01;35m[K-Wformat-extra-args[m[K]
+  235 |       ROS_DEBUG([01;35m[K"object_support_segmentation"[m[K,
+      |                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K

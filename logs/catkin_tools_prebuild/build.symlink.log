@@ -1,0 +1,12 @@
+Symlinking /fetch_ws/devel/./local_setup.bash
+Symlinking /fetch_ws/devel/./local_setup.sh
+Symlinking /fetch_ws/devel/./setup.bash
+Symlinking /fetch_ws/devel/./_setup_util.py
+Symlinking /fetch_ws/devel/./cmake.lock
+Symlinking /fetch_ws/devel/./env.sh
+Symlinking /fetch_ws/devel/./local_setup.zsh
+Symlinking /fetch_ws/devel/./setup.sh
+Symlinking /fetch_ws/devel/./setup.zsh
+Symlinking /fetch_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /fetch_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /fetch_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

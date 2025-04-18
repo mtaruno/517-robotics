@@ -1,0 +1,8 @@
+prefix=/fetch_ws/devel/.private/applications
+
+Name: applications
+Description: Description of applications
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
