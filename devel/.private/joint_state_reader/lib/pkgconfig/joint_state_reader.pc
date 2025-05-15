@@ -1,0 +1,8 @@
+prefix=/fetch_ws/devel/.private/joint_state_reader
+
+Name: joint_state_reader
+Description: Description of joint_state_reader
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

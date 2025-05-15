@@ -1,0 +1,8 @@
+prefix=/fetch_ws/devel/.private/fetch_ikfast_plugin
+
+Name: fetch_ikfast_plugin
+Description: Description of fetch_ikfast_plugin
+Version: 0.9.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

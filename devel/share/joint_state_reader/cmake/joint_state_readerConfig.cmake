@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/joint_state_reader/share/joint_state_reader/cmake/joint_state_readerConfig.cmake

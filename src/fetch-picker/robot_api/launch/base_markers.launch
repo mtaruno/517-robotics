@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="robot_api" type="base_markers.py" name="base_markers" output="screen" />
+</launch>

@@ -1,0 +1,6 @@
+Linked: (/fetch_ws/devel/.private/simple_grasping/lib/libsimple_grasping.so, /fetch_ws/devel/lib/libsimple_grasping.so)
+Linked: (/fetch_ws/devel/.private/simple_grasping/lib/pkgconfig/simple_grasping.pc, /fetch_ws/devel/lib/pkgconfig/simple_grasping.pc)
+Linked: (/fetch_ws/devel/.private/simple_grasping/lib/simple_grasping/basic_grasping_perception, /fetch_ws/devel/lib/simple_grasping/basic_grasping_perception)
+Linked: (/fetch_ws/devel/.private/simple_grasping/lib/simple_grasping/grasp_planner_node, /fetch_ws/devel/lib/simple_grasping/grasp_planner_node)
+Linked: (/fetch_ws/devel/.private/simple_grasping/share/simple_grasping/cmake/simple_graspingConfig.cmake, /fetch_ws/devel/share/simple_grasping/cmake/simple_graspingConfig.cmake)
+Linked: (/fetch_ws/devel/.private/simple_grasping/share/simple_grasping/cmake/simple_graspingConfig-version.cmake, /fetch_ws/devel/share/simple_grasping/cmake/simple_graspingConfig-version.cmake)

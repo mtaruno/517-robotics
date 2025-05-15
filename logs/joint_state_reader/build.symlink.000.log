@@ -1,0 +1,4 @@
+Symlinking /fetch_ws/devel/lib/pkgconfig/joint_state_reader.pc
+Symlinking /fetch_ws/devel/lib/python3/dist-packages/joint_state_reader/__init__.py
+Symlinking /fetch_ws/devel/share/joint_state_reader/cmake/joint_state_readerConfig.cmake
+Symlinking /fetch_ws/devel/share/joint_state_reader/cmake/joint_state_readerConfig-version.cmake

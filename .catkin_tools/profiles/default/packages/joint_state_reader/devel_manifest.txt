@@ -1,0 +1,6 @@
+cse481c/joint_state_reader
+/fetch_ws/devel/.private/joint_state_reader/cmake.lock /fetch_ws/devel/./cmake.lock
+/fetch_ws/devel/.private/joint_state_reader/lib/pkgconfig/joint_state_reader.pc /fetch_ws/devel/lib/pkgconfig/joint_state_reader.pc
+/fetch_ws/devel/.private/joint_state_reader/lib/python3/dist-packages/joint_state_reader/__init__.py /fetch_ws/devel/lib/python3/dist-packages/joint_state_reader/__init__.py
+/fetch_ws/devel/.private/joint_state_reader/share/joint_state_reader/cmake/joint_state_readerConfig.cmake /fetch_ws/devel/share/joint_state_reader/cmake/joint_state_readerConfig.cmake
+/fetch_ws/devel/.private/joint_state_reader/share/joint_state_reader/cmake/joint_state_readerConfig-version.cmake /fetch_ws/devel/share/joint_state_reader/cmake/joint_state_readerConfig-version.cmake

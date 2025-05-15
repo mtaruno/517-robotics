@@ -1,0 +1,6 @@
+fetch-picker/fetch_ikfast_plugin
+/fetch_ws/devel/.private/fetch_ikfast_plugin/cmake.lock /fetch_ws/devel/./cmake.lock
+/fetch_ws/devel/.private/fetch_ikfast_plugin/lib/libfetch_arm_moveit_ikfast_plugin.so /fetch_ws/devel/lib/libfetch_arm_moveit_ikfast_plugin.so
+/fetch_ws/devel/.private/fetch_ikfast_plugin/lib/pkgconfig/fetch_ikfast_plugin.pc /fetch_ws/devel/lib/pkgconfig/fetch_ikfast_plugin.pc
+/fetch_ws/devel/.private/fetch_ikfast_plugin/share/fetch_ikfast_plugin/cmake/fetch_ikfast_pluginConfig.cmake /fetch_ws/devel/share/fetch_ikfast_plugin/cmake/fetch_ikfast_pluginConfig.cmake
+/fetch_ws/devel/.private/fetch_ikfast_plugin/share/fetch_ikfast_plugin/cmake/fetch_ikfast_pluginConfig-version.cmake /fetch_ws/devel/share/fetch_ikfast_plugin/cmake/fetch_ikfast_pluginConfig-version.cmake

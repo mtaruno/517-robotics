@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /fetch_ws/devel/.private/joint_state_reader/setup.sh

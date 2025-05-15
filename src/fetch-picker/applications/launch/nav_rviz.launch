@@ -1,0 +1,17 @@
+<launch>
+  <!-- Define the map file argument with default value -->
+  <arg name="map_file" default="$(find applications)/maps/playground.yaml" />
+
+  <!-- Add a small delay to ensure TF tree is established -->
+  <arg name="start_delay" default="2.0" /> 
+
+  <!-- Include fetch_nav.launch and pass the map file argument -->
+  <include file="$(find fetch_navigation)/launch/fetch_nav.launch">
+    <arg name="map_file" value="$(arg map_file)" />
+  </include>
+
+  <!-- Launch RViz with navigation configuration after a small delay -->
+  <node pkg="rviz" type="rviz" name="$(anon rviz)" 
+        args="-d $(find applications)/config/navigation.rviz"
+        launch-prefix="bash -c 'sleep $(arg start_delay); $0 $@'" />
+</launch>

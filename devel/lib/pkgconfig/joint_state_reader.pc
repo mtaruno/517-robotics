@@ -1,0 +1,1 @@
+/fetch_ws/devel/.private/joint_state_reader/lib/pkgconfig/joint_state_reader.pc

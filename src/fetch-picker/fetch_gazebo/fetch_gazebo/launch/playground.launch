@@ -20,4 +20,10 @@
   <!-- Oh, you wanted a robot? -->
   <include file="$(find fetch_gazebo)/launch/include/$(arg robot).launch.xml" />
 
+  <!-- Start RViz with custom config -->
+  <node pkg="rviz" type="rviz" name="$(anon rviz)" args="-d $(env HOME)/.rviz/myconfig.rviz" />
+
+  <!-- Start the base markers interface -->
+  <include file="$(find robot_api)/launch/base_markers.launch" />
+
 </launch>
